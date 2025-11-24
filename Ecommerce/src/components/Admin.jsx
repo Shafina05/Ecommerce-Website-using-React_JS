@@ -82,9 +82,10 @@ export default function LocalStorage() {
       </Button>
 <br></br>
       <h4>
-        Don't you have an account? <Link to="/SignUp">SignUp</Link>
+        Don't have an account? <Link to="/SignUp">SignUp</Link>
       </h4>
     </div>
   );
 }
+
 
